@@ -1,0 +1,12 @@
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/bin/Debug/netstandard2.0/GraphQlApp.deps.json
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/bin/Debug/netstandard2.0/GraphQlApp.dll
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/bin/Debug/netstandard2.0/GraphQlApp.pdb
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.csproj.CoreCompileInputs.cache
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.AssemblyInfoInputs.cache
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.AssemblyInfo.cs
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.dll
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.pdb
+/Users/manishdua/projects/GraphQlApp/GraphQlApp/obj/Debug/netstandard2.0/GraphQlApp.csprojAssemblyReference.cache
